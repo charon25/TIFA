@@ -1,0 +1,20 @@
+C:\Users\Charon\AppData\Local\Temporary Projects\MiniJam66\bin\Debug\MiniJam66.exe
+C:\Users\Charon\AppData\Local\Temporary Projects\MiniJam66\bin\Debug\MiniJam66.pdb
+C:\Users\Charon\AppData\Local\Temporary Projects\MiniJam66\bin\Debug\MiniJam66.xml
+C:\Users\Charon\AppData\Local\Temporary Projects\MiniJam66\obj\x86\Debug\MiniJam66.Form1.resources
+C:\Users\Charon\AppData\Local\Temporary Projects\MiniJam66\obj\x86\Debug\MiniJam66.Resources.resources
+C:\Users\Charon\AppData\Local\Temporary Projects\MiniJam66\obj\x86\Debug\MiniJam66.vbproj.GenerateResource.Cache
+C:\Users\Charon\AppData\Local\Temporary Projects\MiniJam66\obj\x86\Debug\MiniJam66.exe
+C:\Users\Charon\AppData\Local\Temporary Projects\MiniJam66\obj\x86\Debug\MiniJam66.xml
+C:\Users\Charon\AppData\Local\Temporary Projects\MiniJam66\obj\x86\Debug\MiniJam66.pdb
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Debug\MiniJam66.exe
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Debug\MiniJam66.xml
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Debug\MiniJam66.pdb
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\bin\Debug\MiniJam66.exe
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\bin\Debug\MiniJam66.pdb
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\bin\Debug\MiniJam66.xml
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Debug\MiniJam66.Form1.resources
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Debug\MiniJam66.Resources.resources
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Debug\MiniJam66.vbproj.GenerateResource.Cache
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\bin\Debug\GameMaker.dll
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Debug\MiniJam66.vbprojResolveAssemblyReference.cache

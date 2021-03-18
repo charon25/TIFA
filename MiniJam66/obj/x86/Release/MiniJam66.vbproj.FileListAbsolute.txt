@@ -1,0 +1,10 @@
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\bin\Release\MiniJam66.exe
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\bin\Release\MiniJam66.pdb
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\bin\Release\MiniJam66.xml
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\bin\Release\GameMaker.dll
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Release\MiniJam66.Form1.resources
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Release\MiniJam66.Resources.resources
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Release\MiniJam66.vbproj.GenerateResource.Cache
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Release\MiniJam66.exe
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Release\MiniJam66.xml
+C:\Users\Charon\Documents\Visual Studio 2010\Projects\MiniJam66\MiniJam66\obj\x86\Release\MiniJam66.pdb

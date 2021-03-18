@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MiniJam66
+</name>
+</assembly>
+<members>
+<member name="P:MiniJam66.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.background">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.candy_blue">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.candy_green">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.candy_red">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.cross">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.end_screen">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.font">
+	<summary>
+  Recherche une ressource localisée de type System.Byte[].
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.health_bar">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.healthbar_frame">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.hints">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.keys">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.menu_background">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.part_candy_large">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.part_candy_medium">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.part_candy_small">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.part_vegetable_large">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.part_vegetable_medium">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.part_vegetable_small">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.player_hurt">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.player_idle">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.player_walk_dl">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.player_walk_dr">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.player_walk_tl">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.player_walk_tr">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.sound_candyN1">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.sound_candyN2">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.sound_highscore">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.sound_lose">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.sound_music">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.sound_newgame">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.sound_spawn">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.sound_vegetableN1">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.sound_vegetableN2">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.star">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.sugar">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.vegetable_broccoli">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.vegetable_carrot">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MiniJam66.My.Resources.Resources.vegetable_eggplant">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:MiniJam66.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>
